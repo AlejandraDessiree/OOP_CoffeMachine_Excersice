@@ -17,6 +17,3 @@ This is a Python project that simulates a coffee machine using Object-Oriented P
 - Working with class methods and attributes  
 - Handling user input and conditional logic  
 - Simulating real-world systems with code
-
-```bash
-python coffee_machine.py
